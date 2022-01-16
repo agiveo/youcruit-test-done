@@ -1,0 +1,29 @@
+.a {color: red;};
+
+.navbar-end{
+    font-family: $family-sans-serif;
+    float: right;
+    margin-right: 50px;
+
+}
+.navbar-end a{
+    padding-right: 10px;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+.navbar-end a:hover {
+    color : plum;
+    
+}
+.navbar-end a:active{color:black;}
+
+
+.yc-headline{
+    font-family: $family-sans-serif;
+    color: #873086;
+    text-align: left;
+    margin-left: 40px;
+}
+
